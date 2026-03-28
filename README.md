@@ -4,7 +4,7 @@
 AI & Data Science student who loves coding and building tech projects.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/krish-solanki-62548a329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="later" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p><a href="https://www.linkedin.com/in/krish-solanki-62548a329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://krishxai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
 ## Skills
 
